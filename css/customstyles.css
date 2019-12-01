@@ -9,6 +9,10 @@ font-family: 'Oswald', sans-serif; */
 
 }
 
+body {
+    color: #FEFFFA;
+}
+
 p {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -40,3 +44,138 @@ a {
 .hero.is-link {
     background-image: url("../img/heroimage.jpg");
 }
+
+.navbar {
+    background-color: #0d1f31;
+}
+
+a.navbar-item {
+    color: #FEFFFA;
+}
+
+span.title {
+    color: #FEFFFA;
+}
+
+.divider {
+    background-color: #bbe640;
+    height: 10vh;
+
+}
+
+.centered {
+    text-align: center;
+}
+
+.column>p {
+    color: #0d1f31;
+    font-size: 2rem;
+}
+
+.button.is-primary {
+    background-color: #0d1f31;
+    color: #bbe640;
+    box-shadow: 10px 15px;
+}
+
+.button.is-primary:hover {
+    background-color: #bbe640;
+    color: #0d1f31;
+    box-shadow: 10px 15px;
+}
+
+
+.title {
+    color: #0d1f31;
+}
+
+#about {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.headline-size {
+    font-size: 3rem;
+}
+
+.subtitle span {
+    display: block;
+    font-weight: bold;
+    color: #bbe640;
+    font-size: 3rem;
+}
+
+.important-text-container {
+    width: 60%;
+    text-align: left;
+}
+
+.responsive-img {
+    max-width: 250px;
+}
+
+.custom-pos {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    background-color: #FEFFFA;
+}
+
+.title-contact {
+    text-align: center;
+    letter-spacing: 2px;
+    color: #bbe640;
+}
+
+.is-3 {
+    color: #bbe640;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+}
+
+.contact-title {
+    color: #bbe640;
+    padding-top: 2.5%;
+}
+
+#contact {
+    background-color: #0d1f31;
+    padding-bottom: 2.5%;
+}
+
+form {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.label {
+    text-align: left;
+    color: #bbe640;
+}
+
+.is-custom {
+    background-color: #0d1f31;
+    color: #bbe640;
+    border: none;
+}
+
+.is-custom:hover {
+    background-color: #bbe640;
+    color: #0d1f31;
+
+}
+
+.is-custom-cancel {
+    background-color: #dc4a4a;
+    color: #FEFFFA;
+    border: none;
+}
+
+
+a.navbar-item:hover {
+    background-color: #bbe640;
+    color: #0d1f31;
