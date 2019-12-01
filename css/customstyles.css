@@ -179,3 +179,12 @@ form {
 a.navbar-item:hover {
     background-color: #bbe640;
     color: #0d1f31;
+}
+
+.has-text-centered>p {
+    color: #0d1f31;
+}
+
+.footer {
+    padding: 1% 1% 1% 1%;
+}
